@@ -1,0 +1,269 @@
+// 20210727201232
+// https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=b79d801bc39946799eca6703c0a5af54
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Ajay Pal Singh",
+      "title": "Sri Lanka vs India: Krunal Pandya Tests Positive For Covid In Sri Lanka, 2nd T20I Postponed By A Day | Cricket News - NDTVSports.com",
+      "description": "Sri Lanka vs India: India all-rounder Krunal Pandya, in Sri Lanka, has tested positive for COVID-19, forcing the second T20I -- scheduled for today -- to be postponed by a day.",
+      "url": "https://sports.ndtv.com/sri-lanka-vs-india-2021/indian-cricketer-in-sri-lanka-tests-positive-for-covid-2nd-t20i-postponed-by-a-day-sources-2496040",
+      "urlToImage": "https://c.ndtvimg.com/2021-03/38ci515g_krunal-pandya-bcci_625x300_23_March_21.jpg",
+      "publishedAt": "2021-07-27T12:13:00Z",
+      "content": "Krunal Pandya has tested positive for COVID-19, forcing the second T20 International between India and Sri Lanka -- scheduled for today in Colombo-- to be postponed by a day. The Board of Control for… [+1261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "'I want to meet that genius who is organising tours of Zimbabwe': Wasim Akram reacts to Pakistan's string of defeats - Hindustan Times",
+      "description": "Former captain Wasim Akram has reacted strongly to Pakistan's recent series loss to England, saying the real blame needs to be given to organisers, who are frequently designing tour of countries like Zimbabwe. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/i-want-to-meet-that-genius-who-is-organising-tours-of-zimbabwe-wasim-akram-reacts-to-pakistan-s-string-of-defeats-101627379994795.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/akram-getty-2_1627380287492_1627380291343.jpg",
+      "publishedAt": "2021-07-27T10:06:38Z",
+      "content": "Former captain Wasim Akram has reacted strongly to Pakistan's recent series loss to England, saying the real blame needs to be given to organisers, who are frequently designing tour of countries like… [+1793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Abhimanyu Bose",
+      "title": "Virat Kohli Reacts To All-Stars Football Match Featuring MS Dhoni, Shreyas Iyer And Ranveer Singh | Cricket News - NDTV Sports",
+      "description": "Shreyas Iyer shared pics from a football match featuring the likes of MS Dhoni and Ranveer Singh.",
+      "url": "https://sports.ndtv.com/cricket/virat-kohli-reacts-to-all-stars-football-match-ft-ms-dhoni-shreyas-iyer-and-ranveer-singh-2495865",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/9ci5oc18_shreyas-iyer-football-instagram_625x300_27_July_21.jpg",
+      "publishedAt": "2021-07-27T09:56:00Z",
+      "content": "Cricketer Shreyas Iyer on Tuesday shared pictures from a football match with a star-studded cast that included former India captain MS Dhoni and Bollywood star Ranveer Singh. \"Ballin' with these ball… [+1334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chess24.com"
+      },
+      "author": null,
+      "title": "FIDE World Cup 5.2: Shankland & Vidit in Quarterfinals - chess24",
+      "description": "Sam Shankland knocked out Peter Svidler to become the first player to reach the quarterfinals of the 2021 FIDE World Cup, while also securing a spot in the 2022 FIDE Grand Prix. Vidit was the second, after overcoming Vasif Durarbayli, but the remaining six ma…",
+      "url": "https://chess24.com/en/read/news/fide-world-cup-5-2-shankland-vidit-in-quarterfinals",
+      "urlToImage": "https://s3-eu-west-1.amazonaws.com/de.cisha.live/qGx7jN3PT3aKI7U2to9Vbg/410x260/shankland-stare-er.jpeg",
+      "publishedAt": "2021-07-27T09:48:00Z",
+      "content": "Sam Shankland knocked out Peter Svidler to become the first player to reach the quarterfinals of the 2021 FIDE World Cup, while also securing a spot in the 2022 FIDE Grand Prix. Vidit was the second,… [+10875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Kieran Lynch",
+      "title": "Kepa Arrizabalaga apologises to Maurizio Sarri for Carabao Cup final 'misunderstanding' - Daily Mail",
+      "description": "In the final minute of extra-time during the 2019 Carabao Cup final, Kepa Arrizabalaga refused then manager Maurizio Sarri's instructions to come off for Willy Caballero ahead of the penalty shootout.",
+      "url": "https://www.dailymail.co.uk/sport/football/article-9829963/Kepa-Arrizabalaga-apologises-Maurizio-Sarri-Carabao-Cup-final-misunderstanding.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/27/10/45942727-0-image-a-51_1627377164830.jpg",
+      "publishedAt": "2021-07-27T09:11:52Z",
+      "content": "Chelsea goalkeeper Kepa Arrizabalaga has apologised to former manager Maurizio Sarri for refusing to come off in the 2019 Carabao Cup final.\r\nWith the game between Chelsea and Manchester City poised … [+2634 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Tokyo Olympics 2020: Indian debacle shocks shooting fraternity, NRAI boss talks of 'overhaul' - Times of India",
+      "description": "Tokyo Olympics News: As the country's shooters continued to belie expectations with their horror show in Tokyo, reliving the Rio 2016 debacle, the head of the sport's nati",
+      "url": "https://timesofindia.indiatimes.com/sports/tokyo-olympics/indiatokyo/tokyo-olympics-2020-indian-debacle-shocks-shooting-fraternity-nrai-boss-talks-of-overhaul/articleshow/84787737.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84787681,width-1070,height-580,imgsize-47711,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-07-27T09:04:00Z",
+      "content": "Im sad, so are all, but the most? The athletes themselves!So pls refrain from unnecessary trolls and insults.Yes, f https://t.co/5rpXqOYqX4\r\n— Joydeep Karmakar OLY (@Joydeep709) 1627355890000"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Zee Media Bureau",
+      "title": "Tokyo Olympics: German athletes don full-body suits to counter sexualisation of gymnastics - Zee News",
+      "description": "`Girls must wear bloomers! Absolutely!`  wrote Twitter user  Ste .  Our pleas to wear shorts were completely unacceptable to the old fogeys who ran our school.",
+      "url": "https://zeenews.india.com/other-sports/tokyo-olympics-german-athletes-don-full-body-suits-to-counter-sexualisation-of-gymnastics-2379399.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/07/27/954706-germangymnast.jpg",
+      "publishedAt": "2021-07-27T09:02:34Z",
+      "content": "The full-body suits of Germany`s Olympic gymnasts have struck a chord on Japanese social media, with many applauding the freedom of choice in a nation where schoolgirls almost always wear skirts and … [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Timo Boll BEST Olympic points! - Olympics",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UTZZOGNFdEx5bknSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-07-27T09:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "India vs England - 'Will be surprised if he has a big impact on series': Hogg on star India opener - Hindustan Times",
+      "description": "India vs England: Hogg is concerned about Rohit Sharma's average outside India and of him being set-up by bowlers who bowl the delivery that leaves the right-hander and then trap him LBW by bowling one that comes in sharply. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/india-vs-england-will-be-surprised-if-he-has-a-big-impact-on-series-brad-hogg-on-rohit-sharma-101627373764659.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/hogg-getty-bowling_1614581335512_1614581342626_1627376651833.jpg",
+      "publishedAt": "2021-07-27T08:59:57Z",
+      "content": "India's upcoming five-match Test series against England is going to be a litmus test for the batsmen as England has posed one of the toughest challenges for Indian batsmen in recent years. India has … [+3100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barca Blaugranes"
+      },
+      "author": "Gill Clark",
+      "title": "Ilaix Moriba receives racist abuse online amid Barcelona contract talks - Barca Blaugranes",
+      "description": "Another shameful incident",
+      "url": "https://www.barcablaugranes.com/2021/7/27/22595587/ilaix-moriba-receives-racist-abuse-online-amid-barcelona-contract-talks",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1rHbajqqwAjMENrYsTnoK3doU7Q=/0x9:2670x1407/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22742661/1319806139.jpg",
+      "publishedAt": "2021-07-27T08:32:20Z",
+      "content": "Barcelona midfielder Ilaix Moriba has revealed he has received racist abuse online as he continues contract negotiations with the Catalan giants over a new deal.\r\nThe 18-year-old published a video on… [+945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Mihir Vasavda",
+      "title": "World’s biggest sporting party has a new background score: silence - The Indian Express",
+      "description": "Without any spectators due to Covid restrictions, the silence inside the giant, empty arenas provides a strange background score.",
+      "url": "https://indianexpress.com/article/olympics/worlds-biggest-sporting-party-tokyo-olympics-has-a-new-background-score-silence-7423820/",
+      "urlToImage": "https://images.indianexpress.com/2021/07/tokyo-olympics-empty-stands-1.jpg",
+      "publishedAt": "2021-07-27T08:27:34Z",
+      "content": "The Australian hockey midfielder, Flynn Ogilvie, picks the ball near the half-line and with a sudden burst of speed, weaves past four Indian players. Just as he is about to shoot, there is a sound of… [+3913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "Tokyo Olympics silver medallist Mirabai Chanu says thank you for treating her with delicious pizzas - India Today",
+      "description": "Dominos India kept their promise of free lifetime pizza for the Tokyo Olympics silver medallist Mirabai Chanu. They delivered it to the athlete and reached out to her family members in Imphal, Manipur.",
+      "url": "https://www.indiatoday.in/sports/tokyo-olympics/story/tokyo-olympics-mirabai-chanu-thank-dominos-for-sending-pizzas-1833184-2021-07-27",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/AP21207465765854-647x363.jpeg?S16RhoIpbuDwrIBOjZHvcIdU1hXaJ0Mc",
+      "publishedAt": "2021-07-27T08:13:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "Tokyo Olympics: 17-year-old Lydia Jacoby of US pulls off stunning victory in women’s 100m breaststroke - India Today",
+      "description": "Seventeen-year-old Lydia Jacoby pulled off a stunning victory in the women’s 100-meter breaststroke on Tuesday, upsetting American teammate and defending champion Lilly King.",
+      "url": "https://www.indiatoday.in/sports/tokyo-olympics/story/tokyo-olympics-lydia-jacoby-of-us-bags-women-s-100m-breastroke-gold-1833157-2021-07-27",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/AP21208134461212-647x363.jpeg?MUwUyiOqwQOoDOdMA8JRbVIaCXZAQiTa",
+      "publishedAt": "2021-07-27T07:35:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Shashank Kishore",
+      "title": "Calmer and stronger KL Rahul hopes for Test revival at scene of his last Test century - ESPNcricinfo",
+      "description": "He hasn't played much red-ball cricket of late, but finds himself in the mix for a go in the England series",
+      "url": "https://www.espncricinfo.com/story/india-in-england-test-series-wtc-kl-rahul-hopes-for-test-revival-at-country-of-his-last-test-century-1271142",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/324900/324990.6.jpg",
+      "publishedAt": "2021-07-27T06:41:20Z",
+      "content": "NewsHe hasn't played much red-ball cricket of late, but finds himself in the mix for a go in the England series"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "'Absolutely ridiculous': West Indies captain Kieron Pollard slams pitch after 3rd ODI defeat against Australia - Hindustan Times",
+      "description": "Speaking at the post-match presentation ceremony, Pollard said that he would not make excuses but did not refrain from calling the pitch \"absolutely ridiculous'. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/absolutely-ridiculous-west-indies-captain-kieron-pollard-slams-pitch-after-3rd-odi-defeat-against-australia-101627367138290.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/2021-07-01T222342Z_1_LYNXNPEH6032O_RTROPTP_3_CRICKET-T20_1627367301177_1627367322307.JPG",
+      "publishedAt": "2021-07-27T06:36:39Z",
+      "content": "West Indies captain Kieron Pollard on Tuesday slammed the pitch in Barbados after suffering a six-wicket loss in the third ODI against Australia. After winning the toss and opting to bat, the Windies… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "ANI",
+      "title": "Tokyo Olympics: Table Tennis federation threaten action against Manika Batra, here's why - Zee News",
+      "description": "“What is on her mind I can’t say. Surprised she brought this up here after knowing the criteria. I will discuss this with the executive committee and decide what action needs to be taken.",
+      "url": "https://zeenews.india.com/other-sports/tokyo-olympics-table-tennis-federation-threaten-action-against-manika-batra-here-s-why-2379347.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/07/27/954664-manikattfi.jpg",
+      "publishedAt": "2021-07-27T06:26:53Z",
+      "content": "The Table Tennis Federation of India Secretary General Arun Kumar Banerjee has made it clear that Manika Batras refusal to have national coach Soumyadeep Roy by her side during matches at the Tokyo O… [+1928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "JuveFC"
+      },
+      "author": "Martin U",
+      "title": "How the future of Raphael Varane will affect that of Ronaldo - JuveFC",
+      "description": "The future of Cristiano Ronaldo is one of the most important issues at Juventus this summer and now that…",
+      "url": "https://www.juvefc.com/how-the-future-of-raphael-varane-will-affect-that-of-ronaldo/",
+      "urlToImage": "https://icdn.juvefc.com/wp-content/uploads/2021/03/Ronaldo-Juventus.jpg",
+      "publishedAt": "2021-07-27T06:23:35Z",
+      "content": "The future of Cristiano Ronaldo is one of the most important issues at Juventus this summer and now that he has returned for preseason, it will be sorted.\r\nHe remains a Juventus player for now and Ma… [+967 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Tokyo Olympics: Boxer Lovlina Borgohain enters quarterfinals, one win away from confirming a medal - Times of India",
+      "description": "Tokyo Olympics News: Lovlina, the lone Indian boxer in action on the day, prevailed 3-2 over her rival who is 12 years her senior. Both the boxers were making their Games",
+      "url": "https://timesofindia.indiatimes.com/sports/tokyo-olympics/indiatokyo/tokyo-olympics-boxer-lovlina-borgohain-enters-quarterfinals-one-win-away-from-confirming-a-medal/articleshow/84784069.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84784177,width-1070,height-580,imgsize-628457,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-07-27T06:19:00Z",
+      "content": "Tokyo Olympics: India's schedule and results on July 27The day started on a disastrous note for India when none of the two Indian pairs could qualify for the medal rounds in the much anticipated 10m … [+27 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "Times Now Digital",
+      "title": "Swimmer drops an F-bomb out of excitement after winning gold at Tokyo 2020, interview goes viral - Times Now",
+      "description": "The moment has now gone viral on Twitter and other social media portals. Netizens congratulated the swimmer, with many saying it's okay to drop an 'F' bomb out of excitement after winning Olympic gold.",
+      "url": "https://www.timesnownews.com/the-buzz/article/swimmer-drops-an-f-bomb-out-of-excitement-after-winning-gold-at-tokyo-2020-interview-goes-viral/790872",
+      "urlToImage": "https://imgk.timesnownews.com/story/SWIMM.png?tr=w-560,h-292,fo-top",
+      "publishedAt": "2021-07-27T06:11:00Z",
+      "content": "<ul><li>McKeown finished her 100m backstroke final in just 57.47 seconds to set a new Olympic record.</li></ul>\r\n<ul><li>Unsurprisingly, she was overcome with joy while speaking to Channel 7 about he… [+2086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Coach Proposes To Argentine Fencer In Front Of TV Cameras At Olympics - NDTV",
+      "description": "Argentine fencer Maria Belen Perez Maurice accepted a marriage proposal from her long-term partner and coach in front of television cameras at the Olympics on Monday, the second time he had posed the question in similar fashion.",
+      "url": "https://www.ndtv.com/offbeat/argentine-fencer-maria-belen-perez-maurice-accepts-proposal-in-front-of-tv-cameras-at-olympics-2495713",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/1m0p1ffg_maria-belen-perez-maurice_625x300_27_July_21.jpg",
+      "publishedAt": "2021-07-27T05:37:52Z",
+      "content": "Maria Belen Perez Maurice accepted a marriage proposal in front of cameras.\r\nArgentine fencer Maria Belen Perez Maurice accepted a marriage proposal from her long-term partner and coach in front of t… [+1406 chars]"
+    }
+  ]
+}

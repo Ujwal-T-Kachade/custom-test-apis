@@ -1,0 +1,269 @@
+// 20210727201211
+// https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=b79d801bc39946799eca6703c0a5af54
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sify News"
+      },
+      "author": "IANS",
+      "title": "Indian astronomers part of team spotting unique Gamma-ray burst - Sify",
+      "description": "New Delhi, July 27 (IANS) A group of astronomers, few of them Indians, have detected a very short, powerful burst of high-energy radiation that lasted for about a second and had been racing towards Earth for nearly half the present age of the universe.",
+      "url": "https://www.sify.com/finance/indian-astronomers-part-of-team-spotting-unique-gamma-ray-burst-news-topnews-vh1mk9ahbfihe.html",
+      "urlToImage": "https://www.sify.com/images/news-183x123.jpg",
+      "publishedAt": "2021-07-27T12:10:35Z",
+      "content": "GRBs are the most powerful events in the universe, detectable across billions of light-years. Astronomers classify them as long or short based on whether the event lasts for more or less than two sec… [+3836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Oneindia.com"
+      },
+      "author": "Simran Kashyap",
+      "title": "Breaking Barriers: Meet Priyanka Srivastava, Lucknow girl behind NASA's Mars mission - Oneindia",
+      "description": "Lucknow's Priyanka Srivastava was one of the 9 Indians who contributed in the landing of NASA's Perseverance Rover successfully on Mars.Priyanka is a systems engineer at NASA Jet Propulsion Laboratory (JPL) and has worked on three NASA Flight Missions from de…",
+      "url": "https://www.oneindia.com/india/breaking-barriers-meet-priyanka-srivastava-lucknow-girl-behind-nasa-s-mars-mission-3291330.html",
+      "urlToImage": "https://www.oneindia.com/img/1200x80/2021/07/priyanka-srivastava-1627387407.jpg",
+      "publishedAt": "2021-07-27T12:04:52Z",
+      "content": "New Delhi, July 27: Lucknow's Priyanka Srivastava was one of the 9 Indians who contributed in the landing of NASA's Perseverance Rover successfully on Mars.\r\nPriyanka is a systems engineer at NASA Je… [+1399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": null,
+      "title": "Seven-year-old Brazilian girl discovers 7 asteroids for NASA, becomes worlds youngest astronomer - Firstpost",
+      "description": "Nicole Oliveira has been honoured by the International Astronomical Search Collaboration for her inputs in asteroid searches.",
+      "url": "https://www.firstpost.com/world/seven-year-old-brazilian-girl-discovers-7-asteroids-for-nasa-becomes-worlds-youngest-astronomer-9841341.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/07/Nicole-Oliveira-fb.jpg",
+      "publishedAt": "2021-07-27T12:02:27Z",
+      "content": "Nicole Oliveira has been honoured by the International Astronomical Search Collaboration for her inputs in asteroid searches.\r\nA seven-year-old Brazilian girl, who has an immense love for astronomy, … [+1611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "https://www.facebook.com/mehar.pranjal",
+      "title": "Ancient origins of photosynthesis: Revealing the mysteries - Tech Explorist",
+      "description": "Evolutionary ‘molecular clock’ experiment to reveal origins of photosynthesis.",
+      "url": "https://www.techexplorist.com/ancient-origins-of-photosynthesis-revealing-mysteries/40280/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2021/07/photosynthesis.jpg",
+      "publishedAt": "2021-07-27T12:00:52Z",
+      "content": "The evolution of photosynthesis refers to the subsequent evolution and origin of photosynthesis, a process used by plants to convert light energy into chemical energy. There have been many efforts ma… [+2567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Science Desk",
+      "title": "Hubble finds evidence of water vapour on Jupiter’s moon Ganymede - The Indian Express",
+      "description": "At noon, Ganymede's surface may become warm near the equator and the icy surface may release water molecules.",
+      "url": "https://indianexpress.com/article/technology/science/hubble-evidence-water-vapour-jupiters-moon-7424930/",
+      "urlToImage": "https://images.indianexpress.com/2021/07/heic2107d.jpg",
+      "publishedAt": "2021-07-27T11:15:07Z",
+      "content": "By analysing data from the NASA/ESA Hubble Space Telescope, researchers have found the first evidence of water vapour in the atmosphere of Ganymede, Jupiters largest moon.\r\nPrevious studies have show… [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Large meteor passes by earth, lights up Scandinavian skies - Times of India",
+      "description": "Viral News News: An ‘unusually large meteor’ lit up the sky in southern Norway on Sunday, as it passed by earth.",
+      "url": "https://timesofindia.indiatimes.com/viral-news/large-meteor-passes-by-earth-lights-up-scandinavian-skies/articleshow/84787180.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84787345,width-1070,height-580,imgsize-55961,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-07-27T08:47:00Z",
+      "content": "A search is on for an unusually large #meteor that may have landed near Oslo, #Norway. https://t.co/kVPT0MQuuk https://t.co/1sW1lpKmPg\r\n— Steve Herman (@W7VOA) 1627229086000"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daijiworld.com"
+      },
+      "author": null,
+      "title": "Hubble finds evidence of water vapour on Jupiter Moon - Daijiworld.com",
+      "description": "Washington, Jul 27 (IANS): Astronomers have, for the first time, uncovered evidence of water vapour in the atmosphere of Jupiter's moon Ganymede using NASA's Hubble Space Telescope.\r\nThis water vapour forms when ice from the moon's surface sublimates -- that …",
+      "url": "https://daijiworld.com/news/newsDisplay?newsID=857290",
+      "urlToImage": "http://daijiworld.com/images/daijiSquareLogo.png",
+      "publishedAt": "2021-07-27T07:46:03Z",
+      "content": "Washington, Jul 27 (IANS): Astronomers have, for the first time, uncovered evidence of water vapour in the atmosphere of Jupiter's moon Ganymede using NASA's Hubble Space Telescope.\r\nThis water vapou… [+2097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technotification.com"
+      },
+      "author": "Ratnesh Shinde",
+      "title": "Elon Musk’s Starlink Satellite Internet Service to begin soon - Technotification",
+      "description": "Elon Musk's Starlink satellite network is on track to provide worldwide coverage of broadband internet to every part of the globe.",
+      "url": "https://www.technotification.com/2021/07/elon-musks-starlink-satellite-internet-to-begin-soon.html",
+      "urlToImage": "https://www.technotification.com/wp-content/uploads/2021/07/slim-elon-musk-internet-starlink.jpg",
+      "publishedAt": "2021-07-27T07:07:52Z",
+      "content": "Elon Musk’s Starlink satellite network is on track to provide worldwide coverage of broadband internet to every part of the globe, with the exception of the poles, by August, or within the next 5 wee… [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Elon Musk warns about US population collapse, calls it 'potentially the greatest risk' to the future of... - Moneycontrol",
+      "description": "Elon Musk shared a report by The Wall Street Journal, titled \"US Population Growth, an Economic Driver, Grinds to a Halt\".",
+      "url": "https://www.moneycontrol.com/news/business/elon-musk-warns-about-us-population-collapse-calls-it-potentially-the-greatest-risk-to-the-future-of-civilisation-7230311.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/01/Elon-Musk-3-653x435.jpg",
+      "publishedAt": "2021-07-27T06:09:18Z",
+      "content": "Tesla CEO Elon Musk on July 26 tweeted about the potential impact of the US population collapse on civilisation.\r\nThe billionaire shared a report by The Wall Street Journal, titled \"U.S. Population G… [+1082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tech Explorist"
+      },
+      "author": "https://www.facebook.com/malewar.amit",
+      "title": "How do planets form in binary systems? - Tech Explorist",
+      "description": "Astronomers show how planets form in binary systems without getting crushed.",
+      "url": "https://www.techexplorist.com/how-do-planets-form-binary-systems/40265/",
+      "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2021/07/How-do-planets-form.jpg",
+      "publishedAt": "2021-07-27T05:59:51Z",
+      "content": "Planets formation is believed to takes place in the protoplanetary disc. The most commonly accepted mechanism for how planets form is the core accretion. Core accretion occurs from the collision and … [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationusa.com"
+      },
+      "author": "Penelope mason",
+      "title": "NASA’s Hubble Space Telescope photographed colliding galaxies after recovering from a month-long mystery glitch - News Nation USA",
+      "description": "The Hubble Space Telescope hovers at the boundary of Earth and space in this picture, taken after Hubble's second servicing mission in 1997. NASA The Hubble Space Telescope is back, and NASA has the p",
+      "url": "https://newsnationusa.com/news/finance/banking/nasas-hubble-space-telescope-photographed-colliding-galaxies-after-recovering-from-a-month-long-mystery-glitch/",
+      "urlToImage": "https://images2.markets.businessinsider.com/60d0e3c9db3f80001848d09f?format=jpeg",
+      "publishedAt": "2021-07-27T05:47:39Z",
+      "content": "The Hubble Space Telescope hovers at the boundary of Earth and space in this picture, taken after Hubble’s second servicing mission in 1997.NASA\r\nThe Hubble Space Telescope is back, and NASA has the … [+4110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": null,
+      "title": "International team of astronomers to look for evidence of alien technology - Firstpost",
+      "description": "The project was announced a month after the Pentagon released a report about unidentified aerial phenomena, which stated that their nature was unclear.",
+      "url": "https://www.firstpost.com/tech/science/international-team-of-astronomers-to-look-for-evidence-of-alien-technology-9839871.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/05/brooke-denevan-SxVuXIRG8J4-unsplash-1.jpg",
+      "publishedAt": "2021-07-27T04:31:08Z",
+      "content": "Agence France-PresseJul 27, 2021 10:01:08 IST\r\nAn international team of scientists led by a prominent Harvard astronomer announced a new initiative Monday to look for evidence of technology built by … [+2942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deccan Herald"
+      },
+      "author": "International New York Times",
+      "title": "50 years ago, NASA put a car on the moon - Deccan Herald",
+      "description": "David R. Scott was not about to pass by an interesting rock without stopping. It was July 31, 1971, and he and James B. Irwin, his fellow Apollo 15 astronaut, were the first people to drive on the moon. After a six-hour inaugural jaunt in the new lunar rover,…",
+      "url": "https://www.deccanherald.com/science-and-environment/50-years-ago-nasa-put-a-car-on-the-moon-1013289.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/07/27/apollo15lunarrover1-1013289-1627358376.jpg",
+      "publishedAt": "2021-07-27T03:59:36Z",
+      "content": "David R. Scott was not about to pass by an interesting rock without stopping. It was July 31, 1971, and he and James B. Irwin, his fellow Apollo 15 astronaut, were the first people to drive on the mo… [+10820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Explained Desk",
+      "title": "Explained: What is Nauka, the module Russia is sending to the International Space Station? - The Indian Express",
+      "description": "Nauka, meaning \"science\" in Russian, is the biggest space laboratory Russia has launched to date. It was sent into orbit on July 21, and will take eight days to reach the International Space Station.",
+      "url": "https://indianexpress.com/article/explained/nauka-international-space-station-russia-explained-7424109/",
+      "urlToImage": "https://images.indianexpress.com/2021/07/Nauka-1.jpg",
+      "publishedAt": "2021-07-27T03:03:33Z",
+      "content": "Pirs, a Russian module on the International Space Station (ISS) used as a docking port for spacecraft and as a door for cosmonauts to go out on spacewalks, was on Monday detached from the 22-year-old… [+3394 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Meteor streaks across central, north Texas - KRIS 6 News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MDNPN0dUTEkwV2fSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-07-26T23:50:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollyinside.com"
+      },
+      "author": null,
+      "title": "Better understanding of Earth's atmospheric chemistry from the study of Mars - Space Bollyinside - BollyInside",
+      "description": "Using four martian years of observations from the SPICAM (Spectroscopy for the Investigation of the Characteristics of the Atmosphere of Mars) instrument,",
+      "url": "https://www.bollyinside.com/news/better-understanding-of-earths-atmospheric-chemistry-from-the-study-of-mars",
+      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2021/07/Rochdales-Planet-Earth-Exhibit-Opened-a-Whole-New-World-for.png",
+      "publishedAt": "2021-07-26T21:41:57Z",
+      "content": "Using four martian years of observations from the SPICAM (Spectroscopy for the Investigation of the Characteristics of the Atmosphere of Mars) instrument, which corresponds to seven and a half Earth … [+3542 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ashley Strickland, CNN",
+      "title": "Largest known comet has been traveling for millions of years - CNN",
+      "description": "Astronomers have discovered the largest known comet -- and it's about a thousand times more massive than others. The comet has been traveling around our solar system for millions of years and will reach its closest point to our sun in 2031.",
+      "url": "https://www.cnn.com/2021/07/26/world/largest-comet-discovery-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210726154803-comet-bernardinelli-bernstein-super-tease.jpg",
+      "publishedAt": "2021-07-26T20:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASASpaceflight.com"
+      },
+      "author": "Lee Kanayama & Haygen Warren",
+      "title": "Lucy spacecraft passes pre-shipment review, on track for October launch - NASASpaceFlight.com - NASASpaceflight.com",
+      "description": "NASA and Lockheed Martin are another step closer to the launch of their Lucy Trojan…",
+      "url": "https://www.nasaspaceflight.com/2021/07/lucy-update-july-2021/",
+      "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2021/07/final_lucy_high-end-render_pira.jpg",
+      "publishedAt": "2021-07-26T20:11:33Z",
+      "content": "NASA and Lockheed Martin are another step closer to the launch of their Lucy Trojan Explorer mission, with the craft completing its pre-shipment review ahead of transportation to the Cape Canaveral S… [+9693 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Amy Thompson",
+      "title": "Jupiter rising: SpaceX just scored another major NASA contract - Al Jazeera English",
+      "description": "SpaceX Falcon Heavy rocket beat out SLS, the next mega launcher,  to launch NASA’s Jupiter moon mission.",
+      "url": "https://www.aljazeera.com/economy/2021/7/26/jupiter-rising-spacex-just-scored-another-major-nasa-contract",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/07/2019-04-12T004539Z_1716064889_HP1EF4C0243X6_RTRMADP_3_SPACE-EXPLORATION-SPACEX-1.jpg?resize=1200%2C630",
+      "publishedAt": "2021-07-26T20:05:39Z",
+      "content": "NASAs highly anticipated mission to explore Jupiters largest moon, Europa, has officially booked its ride to space.\r\nAccording to NASA officials, the $4.25bn Europa Clipper spacecraft will launch ato… [+8907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollyinside.com"
+      },
+      "author": null,
+      "title": "Asteroid the size of the Great Pyramid of Giza passes Earth - Space Bollyinside - BollyInside",
+      "description": "As Space.com reported, NASA monitors had expected the object to pass by Earth with no worry that the object would pose a threat to our planet. As with all",
+      "url": "https://www.bollyinside.com/news/asteroid-the-size-of-the-great-pyramid-of-giza-passes-earth",
+      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2021/07/Rochdales-Planet-Earth-Exhibit-Opened-a-Whole-New-World-for.png",
+      "publishedAt": "2021-07-26T19:28:01Z",
+      "content": "As Space.com reported, NASA monitors had expected the object to pass by Earth with no worry that the object would pose a threat to our planet. As with all objects passing Earth, one of the biggest co… [+1293 chars]"
+    }
+  ]
+}

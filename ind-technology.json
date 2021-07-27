@@ -1,0 +1,269 @@
+// 20210727201304
+// https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=b79d801bc39946799eca6703c0a5af54
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Enter21st"
+      },
+      "author": null,
+      "title": "Asus ROG Phone 5 Review: Peak Mobile Gaming Experience! - Enter21st",
+      "description": "Over the previous couple of years, gaming smartphones have carved a distinct segment for themselves within the Android market. Users searching for that additional oomph in efficiency, set off buttons for FPS gaming, and the RGB jazz are drawn to gaming teleph…",
+      "url": "https://enter21st.com/asus-rog-phone-5-review-peak-mobile-gaming-experience/",
+      "urlToImage": "https://enter21st.com/wp-content/uploads/2021/07/rog-5-rear-with-rgb-system-lighting.jpg",
+      "publishedAt": "2021-07-27T12:33:27Z",
+      "content": "Over the previous couple of years, gaming smartphones have carved a distinct segment for themselves within the Android market. Users searching for that additional oomph in efficiency, set off buttons… [+23937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Manish Kumar Choudhary",
+      "title": "How to make an automatic item dropper in Minecraft - Sportskeeda",
+      "description": "Automation is one of the most popular aspects of Minecraft. In the game, players can automate almost everything, including farming, killing mobs, obtaining blocks and so on.",
+      "url": "https://www.sportskeeda.com/minecraft/how-make-automatic-item-dropper-minecraft",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2021/07/0306d-16273851785929-800.jpg",
+      "publishedAt": "2021-07-27T11:49:39Z",
+      "content": "Automation is one of the most popular aspects of Minecraft. In the game, players can automate almost everything, including farming, killing mobs, obtaining blocks and so on.\r\nIn Minecraft, most autom… [+2675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fortnite Tracker"
+      },
+      "author": null,
+      "title": "Fortnite v17.21 update: Obliterate builds with the new Plasma Cannon + Event Countdown begins - Fortnite Tracker",
+      "description": "**A dangerous new weapon and more news on the upcoming event. Here’s everything you need to know about today’s update.**",
+      "url": "https://fortnitetracker.com/article/1608/fortnite-v1721-update-obliterate-builds-with",
+      "urlToImage": "https://trackercdn.com/legacycdn/articles/55e335de11c85b03A929fortnite-plasma-cannon-1920x1080-36b288d99f9e.jpg",
+      "publishedAt": "2021-07-27T11:34:23Z",
+      "content": "A dangerous new weapon and more news on the upcoming event. Heres everything you need to know about todays update.\r\nFortnite is starting to feel like Chapter 1 again. Epic Games have been on a roll s… [+2062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Alex Dobie",
+      "title": "The one big reason Google chose a 50MP sensor for the Pixel 6 - Android Central",
+      "description": "A much-needed sensor upgrade will give the next Google smartphone shooter more data to feed on, which could be vital for the most advanced Pixel camera ever.",
+      "url": "https://www.androidcentral.com/how-pixel-6-can-kick-ass-its-50-megapixel-camera",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/google-pixel-6-pro-front-back-leak-2.jpg",
+      "publishedAt": "2021-07-27T11:30:02Z",
+      "content": "Source: Jon Prosser\r\nIf there's one area of Google's Pixel phones that's been desperately in need of an upgrade, it's the camera hardware. The main image sensor used in 2020's Pixel 5 is virtually id… [+5790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Peter",
+      "title": "Oppo Watch 2 unveiled with Wear 4100 chipset, 42mm and 46mm sizes available with eSIM - GSMArena.com news - GSMArena.com",
+      "description": "The watch maintains its rectangular design with a 3D AMOLED display on the front. It is water resistant and can last up to 4 days on a charge.",
+      "url": "https://www.gsmarena.com/oppo_watch_2_unveiled_with_wear_4100_chipset_42_and_46mm_sizes_available_with_esim-news-50248.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/07/oppo-watch2-announced/-476x249w4/gsmarena_000.jpg",
+      "publishedAt": "2021-07-27T10:29:01Z",
+      "content": "The Oppo Watch 2 arrives with a Wear 4100 chipset alongside a custom Apollo 4s co-processor by Ambiq. The Ultra Dynamic Dual Engine promises to extend battery life the 46mm model should last up to 4 … [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Francesco De Meo",
+      "title": "Microsoft Flight Simulator New Comparison Videos Highlight Impressive Quality of the Xbox Series S Version - Wccftech",
+      "description": "New Microsoft Flight Simulator comparison videos have been shared online, highlighting the impressive quality of the Xbox Series S version of the game. The first new video, which has been shared on YouTube by IGN, compares the Xbox Series X and Xbox Series S …",
+      "url": "https://wccftech.com/microsoft-flight-simulator-new-comparison-videos-highlight-impressive-quality-of-the-xbox-series-s-version/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2019/09/WCCFmicrosoftflightsimulator.jpg",
+      "publishedAt": "2021-07-27T10:09:39Z",
+      "content": "New Microsoft Flight Simulator comparison videos have been shared online, highlighting the impressive quality of the Xbox Series S version of the game.\r\nThe first new video, which has been shared on … [+2019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile",
+      "title": "Samsung’s awesome AMD-powered Exynos chip might not power the Galaxy Tab S8 - SamMobile",
+      "description": "Samsung's faced a lot of criticism in recent years for the poor quality of its flagship Exynos chips. Things came ...",
+      "url": "https://www.sammobile.com/news/samsung-awesome-amd-powered-exynos-chip-might-not-power-galaxy-tab-s8/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/08/Galaxy-Tab-S7-Plus-review-21-720x405.jpg",
+      "publishedAt": "2021-07-27T10:01:00Z",
+      "content": "Samsung’s faced a lot of criticism in recent years for the poor quality of its flagship Exynos chips. Things came to a head last year with the Exynos 990, which was so problematic that Samsung actual… [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indulgexpress.com"
+      },
+      "author": "IANS",
+      "title": "Samsung places all its bets on foldable smartphones and says there won't be a Galaxy Note in 2021 - Indulgexpress",
+      "description": "However, according to Counterpoint Research, foldable smartphone shipment share will remain in low single digits for the foreseeable future",
+      "url": "https://www.indulgexpress.com/gadgets/2021/jul/27/samsung-places-all-its-bets-on-foldable-smartphones-and-says-there-wont-be-a-galaxy-note-in-2021-34908.html",
+      "urlToImage": "https://images.indulgexpress.com/uploads/user/imagelibrary/2021/7/19/w600X390/Samsung.jpg",
+      "publishedAt": "2021-07-27T10:00:00Z",
+      "content": "Samsung said on Tuesday that the popular Galaxy Note series, an integral part of its flagship premium portfolio that created a distinct buzz every year, will not make its appearance in 2021. The comp… [+3174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": null,
+      "title": "Google shrinks in US smartphone market ahead of Pixel 6’s ‘reboot’ while OnePlus grows over 400% - 9to5Google",
+      "description": "In the first half of 2021, OnePlus is seeing huge growth in the US smartphone market as Google's Pixel line dips into the red.",
+      "url": "https://9to5google.com/2021/07/27/pixel-oneplus-us-smartphone-market-2021-growth/",
+      "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/07/pixel_oneplus_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-07-27T10:00:00Z",
+      "content": "The US smartphone market is dominated by names like Apple and Samsung, but others such as Google and OnePlus have been trying to make a meaningful impact in it for years now. As we near the Pixel 6 a… [+2399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Sagar",
+      "title": "Realme Flash teased as world's first Android phone with Magnetic Wireless Charging - GSMArena.com news - GSMArena.com",
+      "description": "It will be powered by the Snapdragon 888 SoC and pack a curved display.",
+      "url": "https://www.gsmarena.com/realme_flash_design_official_teaser-news-50245.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/07/realme-flash-official-teaser/-476x249w4/gsmarena_005.jpg",
+      "publishedAt": "2021-07-27T09:34:01Z",
+      "content": "Yesterday we exclusively reported that Realme will soon launch the Realme Flash as the world's first Android smartphone with magnetic wireless charging, and that bit was officially confirmed today by… [+1390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NME"
+      },
+      "author": null,
+      "title": "‘Apex Legends’ season 10 teaser shows off World’s Edge map changes - NME",
+      "description": "The season 10 update for 'Apex Legends' will introduce changes to the World's Edge map.",
+      "url": "https://www.nme.com/news/gaming-news/apex-legends-season-10-teaser-shows-off-worlds-edge-map-changes-3003682",
+      "urlToImage": "https://www.nme.com/wp-content/uploads/2021/07/apex-legends-respawn-s10@2000x1270.jpg",
+      "publishedAt": "2021-07-27T09:18:49Z",
+      "content": "EA has announced that the season 10 update forApex Legendswill feature an overhaul of  the World’s Edge map.\r\nApex Legends‘ tenth season, titled Emergence, will release on August 3. The update will a… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Mayank Sharma",
+      "title": "Hackers are using exotic programming languages to sidestep security filters - Techradar",
+      "description": "Researchers suggest use of Nim, Rust, Go and more also prevents proper analysis of attacks",
+      "url": "https://www.techradar.com/news/hackers-are-using-exotic-programming-languages-to-sidestep-security-filters",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pNvZnS4EQCoYBG2inqCq5L-1200-80.jpg",
+      "publishedAt": "2021-07-27T09:10:20Z",
+      "content": "Malware\r\n authors are increasingly using rarely spotted programming languages in order to circumvent detection, according to cybersecurity\r\n researchers.\r\nThe BlackBerry Research and Intelligence Tea… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mysmartprice.com"
+      },
+      "author": null,
+      "title": "Assassin's Creed Valhalla DLC Expansion The Siege of Paris Release Date and Patch Notes Revealed - MySmartPrice",
+      "description": "Assassin's Creed Valhalla's second DLC expansion - The Siege of Paris is set for release on August 12th and it brings a lot of cool stuff.",
+      "url": "https://www.mysmartprice.com/gear/assassins-creed-valhalla-dlc-expansion-the-siege-of-paris-release-date-and-patch-notes-revealed/",
+      "urlToImage": "https://assets.mspimages.in/wp-content/uploads/2021/07/pjimage-57.jpg",
+      "publishedAt": "2021-07-27T08:33:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Spotify adds What’s New feed for all the music and podcasts you follow - The Verge",
+      "description": "What’s New is a new section in the Spotify app that collects together new music and content from musicians and creators you follow on the platform. The feed is rolling out globally over the coming weeks on iOS and Android.",
+      "url": "https://www.theverge.com/2021/7/27/22595581/spotify-whats-new-feed-podcasts-artists-follow",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AE6iRqQgS__k9-O2S9MwSRwJioI=/0x78:1089x648/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22742658/msedge_HCpikuephw.png",
+      "publishedAt": "2021-07-27T08:24:15Z",
+      "content": "Available via a bell icon on the home screen\r\nA blue icon will indicate when new content has released.\r\nImage: Spotify\r\nWhats New is a new section in the Spotify app that collects together new music … [+1180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.bgr.in"
+      },
+      "author": "Amritanshu Mukherjee",
+      "title": "RedmiBook laptop launching on August 3, design and colours teased - BGR India",
+      "description": "Xiaomi is bringing the RedmiBook lineup of laptops in India soon. The teased design look similar to the Mi Notebook models.",
+      "url": "https://www.bgr.in/laptops/redmibook-laptop-launching-on-august-3-mi-notebook-like-design-and-colours-teased-975228/",
+      "urlToImage": "https://st1.bgr.in/wp-content/uploads/2021/07/RedmiBook-India-e1627386393108.jpg",
+      "publishedAt": "2021-07-27T08:13:00Z",
+      "content": "A few days ago, Redmi teased its foray into the laptop market with the RedmiBook series at the Redmi Note 10T 5G launch event. Today, the Xiaomi sub-brand has taken to social media to reveal some mor… [+2358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Yordan",
+      "title": "LG adds two more Tone Free earbuds with ANC, UV self-cleaning - GSMArena.com news - GSMArena.com",
+      "description": "The FP9 and FP5 join the already announced FP8.",
+      "url": "https://www.gsmarena.com/lg_brings_three_new_tone_free_earbuds_with_anc_uv_selfcleaning-news-50243.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/07/lg-tone-free-fp-ofic/-476x249w4/gsmarena_001.jpg",
+      "publishedAt": "2021-07-27T07:58:01Z",
+      "content": "LG might be done with the smartphone business but the company has no intentions to stop developing accessories for them. The latest proof is the launch of two additions to its new Tone Free TWS lineu… [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "91mobiles"
+      },
+      "author": null,
+      "title": "Realme RMX3381 (possible X9 Pro) specifications and images appear on TENAA - 91mobiles",
+      "description": "Realme RMX3381 specifications and images have appeared on TENAA. This could be the rumoured Realme X9 Pro and here's what we know.",
+      "url": "https://www.91mobiles.com/hub/realme-x9-pro-rmx3381-specifications-images-tenaa/",
+      "urlToImage": "https://www.91-cdn.com/hub/wp-content/uploads/2021/07/realme-8-price-cut-image-featured-1.jpg",
+      "publishedAt": "2021-07-27T07:50:36Z",
+      "content": "Realme RMX3381 could be the company's upcoming mid-range 5G phone.\r\nA Realme phone with the model number RMX3381 has received China’s TENAA certification. While the marketing name of the phone is und… [+2169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "https://www.facebook.com/thehackernews",
+      "title": "Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices - The Hacker News",
+      "description": "Apple issues an urgent software update for iOS, iPadOS, and macOS to patch a new zero-day vulnerability.",
+      "url": "https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html",
+      "urlToImage": "https://thehackernews.com/images/-b6kGmU8c6Gc/YP-1oely-GI/AAAAAAAADV0/MURJ7OCSDsoeAi2sHU_Bb2cqNT4e2C-qACLcBGAsYHQ/s0/apple-iphone-hacking.jpg",
+      "publishedAt": "2021-07-27T07:28:00Z",
+      "content": "Apple on Monday rolled out an urgent security update for iOS, iPadOS, and macOS to address a zero-day flaw that it said may have been actively exploited, making it the thirteenth such vulnerability A… [+2846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Microsoft Surface Duo 2 design, specifications leaked - Moneycontrol",
+      "description": "Microsoft Surface Duo 2 is likely to come with an improved performance unit.",
+      "url": "https://www.moneycontrol.com/news/technology/microsoft-surface-duo-2-design-specifications-leaked-7230591.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/03/Surface-Duo-770x433.jpg",
+      "publishedAt": "2021-07-27T07:18:38Z",
+      "content": "Microsoft Surface Duo 2 images have leaked online. The dual-screen device from Microsoft is expected to launch soon. The Duo 2 will launch as a successor to the original Duo, which was unveiled in 20… [+1182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India TV News"
+      },
+      "author": "India TV Tech Desk",
+      "title": "Logitech MX Anywhere 3 compact mouse launched in India: Check price, features - India TV News",
+      "description": "Logitech has announced the launch of its new MX Anywhere 3 and MX Anywhere 3 for Mac Wireless Compact Mice in India.",
+      "url": "https://www.indiatvnews.com/technology/news-logitech-mx-anywhere-3-compact-mouse-launched-in-india-price-availability-722286",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/07/logitech-1627369010.jpg",
+      "publishedAt": "2021-07-27T07:06:34Z",
+      "content": "Logitech has announced the launch of its new MX Anywhere 3 and MX Anywhere 3 for Mac Wireless Compact Mice in India. The new mice offer low-profile design for advanced creators, developers and anyone… [+1499 chars]"
+    }
+  ]
+}

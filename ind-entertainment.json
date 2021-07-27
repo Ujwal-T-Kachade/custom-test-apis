@@ -1,0 +1,269 @@
+// 20210727200523
+// https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=b79d801bc39946799eca6703c0a5af54
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Abhishek Bachchan's Emoji Response To Fans Who Say He's The \"One And Only Reel Life Captain Vikram Batra\" - NDTV",
+      "description": "The tweets arrived after the trailer of Sidharth Malhotra's Shershaah released recently",
+      "url": "https://www.ndtv.com/entertainment/abhishek-bachchans-emoji-response-to-fans-who-say-hes-the-one-and-only-reel-life-captain-vikram-batra-2496130",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/8tt77cf_abhishek-_625x300_27_July_21.jpg",
+      "publishedAt": "2021-07-27T11:49:11Z",
+      "content": "Abhishek Bachchan in a still from LOC: Kargil\r\nHighlights\r\n<ul><li>The trailer of Sidharth Malhotra's 'Shershaah' released on July 25\r\n</li><li> Sidharth has been cast as Captain Vikram Batra in the … [+2269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya",
+      "title": "Official: #PSPKRanaMovie For Sankranthi 2022 - Gulte",
+      "description": "https://www.youtube.com/watch?v=QH9pKyfg_fo The makers of Powerstar Pawan Kalyan and Rana Daggubati’s untitled film have unveiled a making glimpse video. This 50 seconds video has visuals of Pawan and Rana reaching the sets. The shooting of the film resumed o…",
+      "url": "https://www.gulte.com/movienews/104642/official-pspkranamovie-for-sankranthi-2022",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/07/Screenshot-2021-07-27-at-4.51.45-PM-2-660x330.jpg",
+      "publishedAt": "2021-07-27T11:29:29Z",
+      "content": "The makers of Powerstar Pawan Kalyan and Rana Daggubatis untitled film have unveiled a making glimpse video. This 50 seconds video has visuals of Pawan and Rana reaching the sets.\r\nThe shooting of th… [+697 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "BTS - Dynamite in the Live Lounge - BBC Radio 1",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SGtqT2t5OUZMMDTSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-07-27T11:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sneha Hiro",
+      "title": "Pooja Hegde on ‘Bhaijaan’ co-star Salman Khan: He is very transparent about who he likes and doesn't like - Times of India",
+      "description": "Pooja Hegde, who has recently launched her own foundation, is all set to unite with Salman Khan for ‘Bhaijaan’, whi",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-hegde-on-bhaijaan-co-star-salman-khan-he-is-very-transparent-about-who-he-likes-and-doesnt-like-exclusive/articleshow/84788747.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84788828,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-455164/84788828.jpg",
+      "publishedAt": "2021-07-27T10:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Shilpa Shetty shouted at Raj Kundra during house raid, “What was the need to do all this” :Report - Times of India",
+      "description": "Raj Kundra has been sent to 14 days of judicial custody after he was arrested by the Mumbai Crime Branch for his in",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-shouted-at-raj-kundra-during-house-raid-what-was-the-need-to-do-all-this-report/articleshow/84788258.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84788259,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-767906/84788259.jpg",
+      "publishedAt": "2021-07-27T09:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Akhil Arora",
+      "title": "Disney+ Hotstar Unveils New Rs. 499 Mobile, Rs. 899 Super, and Rs. 1,499 Premium Plans - Gadgets 360",
+      "description": "Disney+ Hotstar’s new India plans are Rs. 499 Mobile, Rs. 899 Super, and Rs. 1,499 Premium. Disney+ Hotstar Mobile supports one mobile device in HD, Disney+ Hotstar Super supports two devices in HD, and Disney+ Hotstar Premium allows four devices in 4K. New p…",
+      "url": "https://gadgets.ndtv.com/entertainment/news/hotstar-disney-plus-india-plans-new-mobile-super-premium-499-899-1499-year-annual-2495963",
+      "urlToImage": "https://i.gadgets360cdn.com/large/hotstar_disney_plus_india_new_plans_1627377048235.jpg",
+      "publishedAt": "2021-07-27T09:13:43Z",
+      "content": "Disney+ Hotstar is pulling a Netflix with its plans. At a virtual event on Tuesday, where it unveiled 18 new Hotstar Specials series and Disney+ Hotstar Multiplex movies, the Disney-owned streaming s… [+2861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Akshay Kumar offers clarification after mistakenly crediting Ajay Devgn for writing a poem - Hindustan Times",
+      "description": "Ajay Devgn found another fan in actor Akshay Kumar who lauded his latest video, in which he is heard reciting an emotional poem about a soldier. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/akshay-kumar-offers-clarification-after-mistakenly-crediting-ajay-devgn-for-writing-a-poem-101627374410210.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/ajay_devgn_1627374397589_1627374408020.jpg",
+      "publishedAt": "2021-07-27T08:56:00Z",
+      "content": "Actor Akshay Kumar got emotional after watching Ajay Devgn's video about a soldier. In the video, Ajay is seen reciting the poem Sipahi, by Manoj Muntashir.\r\nWhen Akshay first tweeted the video, he g… [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "‘Kareena would stab me’: Saif Ali Khan answers if he tried cutting his wife’s hair during pandemic - The Indian Express",
+      "description": "During a latest interview, Saif Ali Khan shared how the spread of coronavirus has also slowed the growth of his four children, Sara Ali Khan, Ibrahim Khan, Taimur Ali Khan and Jeh.",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/kareena-kapoor-would-stab-me-saif-ali-khan-answers-if-he-tried-cutting-his-wife-hair-during-pandemic-7424218/",
+      "urlToImage": "https://images.indianexpress.com/2021/07/saif-kareena-.jpg",
+      "publishedAt": "2021-07-27T07:12:35Z",
+      "content": "Bollywood actor Saif Ali Khan feels the pandemic has been the toughest for the young generation, and it is heartbreaking for him to see his four-year-old son Taimur wear a mask. The actor recently ap… [+1699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "Amjad Khan named Amitabh Bachchan ‘Shorty’ during Sholay, Big B filled in for his family after life-threatening accident - The Indian Express",
+      "description": "Amitabh Bachchan once spoke about how he had to sign crucial hospital formalities for Amjad Khan when the latter had a road accident. Big B remembered that Khan used to call him 'Shorty'.",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/amjad-khan-named-amitabh-bachchan-shorty-during-sholay-big-b-filled-in-for-his-family-after-life-threatening-accident-death-anniversary-7424189/",
+      "urlToImage": "https://images.indianexpress.com/2020/08/sholay-1200-1-e1597481760551.jpg",
+      "publishedAt": "2021-07-27T06:34:08Z",
+      "content": "It’s been over 45 years of Gabbar Singh creating menace in Sholay and leaving his imprint on Indian cinema. The film is celebrated for many reasons, not the least of which is this iconic character an… [+2974 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "IANS",
+      "title": "Umesh Kamat takes legal route for linking him to Raj Kundra case - Times of India",
+      "description": "Actor Umesh Kamat, who has starred in shows such as 'Asambhav' and 'Eka Lagnachi Teesri Goshta', has come out with",
+      "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/umesh-kamat-takes-legal-route-for-linking-him-to-raj-kundra-case/articleshow/84784331.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-84784331,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-310139/84784331.jpg",
+      "publishedAt": "2021-07-27T06:27:00Z",
+      "content": "Actor Umesh Kamat, who has starred in shows such as \"Asambhav\" and \"Eka Lagnachi Teesri Goshta\", has come out with a statement stating that he has been \"unnecessarily dragged in the controversy conce… [+2952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya",
+      "title": "Official: RRR’s First Song Dosti To Feature 5 Singers - Gulte",
+      "description": "For the last few days, it is being rumored that team RRR will release a friendship song on August 1st, on the occasion of Friendship Day. Finally, the makers have announced the news earlier today. It has been announced that the first song from RRR, titled Dos…",
+      "url": "https://www.gulte.com/movienews/104449/official-rrrs-first-song-dosti-to-feature-5-singers",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/07/dosthi-660x330.jpg",
+      "publishedAt": "2021-07-27T06:25:43Z",
+      "content": "For the last few days, it is being rumored that team RRR will release a friendship song on August 1st, on the occasion of Friendship Day. Finally, the makers have announced the news earlier today.\r\nI… [+1216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollywood Hungama"
+      },
+      "author": "Bollywood Hungama",
+      "title": "Katrina Kaif looks elegant as ever in a ruffled floral midi dress worth Rs. 15,000 for her visit to Sanjay Leela Bhansalis office - Bollywood Hungama",
+      "description": "Katrina Kaif looks elegant as ever in a ruffled floral midi dress worth Rs. 15,000 for her visit to Sanjay Leela Bhansali’s office Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities Ne…",
+      "url": "https://www.bollywoodhungama.com/news/features/katrina-kaif-looks-elegant-ever-ruffled-floral-midi-dress-worth-rs-15000-visit-sanjay-leela-bhansalis-office/",
+      "urlToImage": "https://stat2.bollywoodhungama.in/wp-content/uploads/2021/07/Katrina-Kaif-looks-elegant-as-ever-in-a-ruffled-floral-midi-dress-worth-Rs.-15000-for-her-visit-to-Sanjay-Leela-Bhansalis-office620.jpg",
+      "publishedAt": "2021-07-27T06:21:37Z",
+      "content": "Katrina Kaif never fails to make chic fashion statements. Katrina is a stunner on and off social media.\r\nKaif was spotted at ace filmmaker Sanjay Leela Bhansalis office dressed in a beautiful scarlet… [+1856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Entertainment Bureau",
+      "title": "Khatron Ke Khiladi 11 Contestants Rahul, Abhinav, Vishal, Arjun, Varun Dance to Bihari Songs - News18",
+      "description": "Season 11 of popular reality stunt show Khatron Ke Khiladi is creating a lot of buzz.",
+      "url": "https://www.news18.com/news/movies/khatron-ke-khiladi-11-contestants-rahul-vaidya-abhinav-shukla-vishal-aditya-arjun-bijlani-varun-sood-dance-to-bihari-songs-4011674.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/07/1627366475_khatron-ke-khiladi-11-2-1600x900.jpg",
+      "publishedAt": "2021-07-27T06:15:00Z",
+      "content": "Season 11 of popular reality stunt show Khatron Ke Khiladi is creating a lot of buzz. The show wasshot in the beautiful Cape Town. Hosted by director Rohit Shetty, this season has many popular faces … [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greatandhra.com"
+      },
+      "author": "GREATANDHRA BUREAU",
+      "title": "NTR Hunting For Good Bollywood Director.. - Greatandhra.com",
+      "description": "Top heroes of Tollywood like NTR and Ram Charan are in the search of good directors who can make pan India films.",
+      "url": "https://www.greatandhra.com/movies/news/ntr-hunting-for-good-bollywood-director-114746",
+      "urlToImage": "https://www.greatandhra.com/newphotos9/ntr_11627366385.jpg",
+      "publishedAt": "2021-07-27T06:13:05Z",
+      "content": "Top heroes of Tollywood like NTR and Ram Charan are in the search of good directors who can make pan India films.\r\nThis has become the common search for all the top stars who are aiming at pan India … [+692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Entertainment Desk",
+      "title": "Hounded by Navya Naveli Nanda dating rumours, Meezaan reassures female fans: 'I'm single' - Hindustan Times",
+      "description": "Meezaan has reassured his female fans that he is, in fact, single. He also revealed that he'd received a 'shaadi ka rishta' recently. | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/hounded-by-navya-naveli-nanda-dating-rumours-meezaan-reassures-female-fans-i-m-single-101627363871367.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/meezaan_navya_naveli-nanda_1626854513389_1627364901494.jpg",
+      "publishedAt": "2021-07-27T05:53:56Z",
+      "content": "Actor Meezaan has outrightly denied being in a relationship with anybody. He has been linked with Amitabh Bachchan's granddaughter Navya Naveli Nanda for a few years.\r\nMeezaan had previously admitted… [+1717 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bollywood Life"
+      },
+      "author": "Sanskruti Salunke",
+      "title": "Bigg Boss 14's Jaan Kumar Sanu REVEALS he wouldn't have attended Rahul Vaidya-Disha Parmar's wedding even if - Bollywood Life",
+      "description": "Bigg Boss 14 contestant Jaan Kumar Sanu spoke about not being invited to Rahul Vaidya-Disha Parmar's wedding and also sent good wishes to the couple.",
+      "url": "https://www.bollywoodlife.com/tv/bigg-boss-14s-jaan-kumar-sanu-reveals-he-wouldnt-have-attended-rahul-vaidya-disha-parmars-wedding-even-if-he-was-invited-heres-why-read-latest-tv-news-and-gossips-1882343/",
+      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/07/JAAN-KUMAR-SANU-RAHUL-VAIDYA-DISHA-PARMAR-600x315.jpg",
+      "publishedAt": "2021-07-27T05:48:56Z",
+      "content": "Bigg Boss 14's runner-up Rahul Vaidya got married to Disha Parmar on July 16. He had a grand wedding ceremony in Mumbai and also hosted a post wedding sangeet party. At the sangeet party, we saw his … [+2273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya",
+      "title": "Ishq Release Trailer: Bit Romance, More Thrills - Gulte",
+      "description": "https://www.youtube.com/watch?v=1ilVF7mL0wM True to the tagline, young hero Teja Sajja’s Ishq is Not A Love Story. Of course, the film has romance between the lead pair Teja and Priya Prakash Varrier, it will have more thrills, going by the release trailer th…",
+      "url": "https://www.gulte.com/movienews/104446/ishq-release-trailer-bit-romance-more-thrills",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/07/Plain-Still-1-1-660x330.jpg",
+      "publishedAt": "2021-07-27T05:45:42Z",
+      "content": "True to the tagline, young hero Teja Sajjas Ishq is Not A Love Story. Of course, the film has romance between the lead pair Teja and Priya Prakash Varrier, it will have more thrills, going by the rel… [+874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya",
+      "title": "Amitabh Bachchan Takes Up Green India Challenge! - Gulte",
+      "description": "Rajya Sabha MP Santosh Joginapally's Green India Challenge has got a major boost. Legendary Superstar Amitabh Bachchan has taken the challenge and has planted a sapling in Ramoji Film City along with King Nagarjuna. Producer Aswini Dutt and Film City MD Vijay…",
+      "url": "https://www.gulte.com/political-news/104434/amitabh-bachchan-takes-up-green-india-challenge",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-27-at-11.03.26-AM-660x330.jpeg",
+      "publishedAt": "2021-07-27T05:40:10Z",
+      "content": "Rajya Sabha MP Santosh Joginapally’s Green India Challenge has got a major boost. Legendary Superstar Amitabh Bachchan has taken the challenge and has planted a sapling in Ramoji Film City along with… [+624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Ileana D'Cruz's \"No-Makeup\" Post Is As Real As It Gets - NDTV Movies",
+      "description": "\"Learning to celebrate and respect every bit of me,\" wrote Ileana",
+      "url": "https://www.ndtv.com/entertainment/ileana-dcruzs-no-makeup-post-is-as-real-as-it-gets-2495712",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/h1da7jjg_ileana_625x300_27_July_21.jpg",
+      "publishedAt": "2021-07-27T05:35:53Z",
+      "content": "Ileana D'Cruz shared this image. (courtesy ileana_official )\r\nHighlights\r\n<ul><li>Ileana shared a post-workout selfie \r\n</li><li>\"No sparkly beauty blurry filter,\" wrote Ileana \r\n</li><li>\"So proud o… [+1615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gulte"
+      },
+      "author": "Satya",
+      "title": "Prabhas Is Now The Top Most Handsome Asian Man - Prabhas - Gulte",
+      "description": "Prabhas, who earned an international reputation and unimaginable popularity with Bahubali franchise, now leads the list of most handsome Asian men. After witnessing craze for him, it is no surprise that the Pan-India superstar tops the list. The 'Top Ten Most…",
+      "url": "https://www.gulte.com/movienews/104426/prabhas-is-now-the-top-most-handsome-asian-man",
+      "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/07/Prabhassss1-660x330.jpg",
+      "publishedAt": "2021-07-27T05:08:30Z",
+      "content": "Prabhas, who earned an international reputation and unimaginable popularity with Bahubali franchise, now leads the list of most handsome Asian men. After witnessing craze for him, it is no surprise t… [+885 chars]"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+// 20210727200203
+// https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=b79d801bc39946799eca6703c0a5af54
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Aparna Banerjea",
+      "title": "IndiGo Q1 net loss widens to ₹3,179 cr as revenue hit by severe second Covid wave - Mint",
+      "description": "The company's revenue from operations plunged 48% quarter-on-quarter (QoQ) to  ₹3,0007 crore in Q1FY22 as against  ₹6,223 crore in Q4FY21.The company saw a 59% rise in total expenses in the quarter to  ₹6,344 crore",
+      "url": "https://www.livemint.com/companies/company-results/indigo-q1-net-loss-widens-to-rs-3-179-cr-as-revenue-hit-by-severe-second-covid-wave-11627383024997.html",
+      "urlToImage": "https://images.livemint.com/img/2021/07/27/600x338/13180fbe-7a7c-11eb-ac73-a65418c40367_1614963059876_1627383953232.jpg",
+      "publishedAt": "2021-07-27T11:08:18Z",
+      "content": "Domestic budget carrier Interglobe Aviation Limited on Tuesday posted a consolidated year-on-year net loss of 3174.17 crore in the quarter ended 30 June, 2021. The aviation company had posted a loss … [+1705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BloombergQuint"
+      },
+      "author": "BQ Desk",
+      "title": "Sensex, Nifty Decline As Dr. Reddy's Triggers Selloff In Pharma Shares - BloombergQuint",
+      "description": "Catch all live updates on share prices, index moves, corporate announcements and more from Indian stock markets today.",
+      "url": "https://www.bloombergquint.com/markets/share-market-live-sgx-nifty-signals-positive-start-tata-motors-axis-bank-dr-reddys-in-focus",
+      "urlToImage": "https://gumlet.assettype.com/bloombergquint%2F2021-06%2F77025fde-d7fb-49c5-b3a1-2378648a84a5%2F356617915.jpg?rect=0%2C465%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2021-07-27T10:30:00Z",
+      "content": "The S&amp;P BSE MidCap almost mirrored the larger peers as it declined by 0.67% while the S&amp;P BSE SmallCap outperformed the larger peers as it shed 0.11%.\r\nSixteen of the 19 sectoral indices comp… [+993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Rolex Rings IPO | Grey market premium jumps 50% ahead of opening - Moneycontrol.com",
+      "description": "The public issue will be open for subscription between July 28-30.",
+      "url": "https://www.moneycontrol.com/news/business/ipo/rolex-rings-ipo-grey-market-premium-jumps-50-ahead-of-opening-7233101.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/01/Bharat_Forge12801-770x433.jpg",
+      "publishedAt": "2021-07-27T10:15:53Z",
+      "content": "Automotive components manufacturer Rolex Rings share price premium jumped 50 percent in the grey market ahead of the opening of its IPO. The public issue will be open for subscription between July 28… [+2333 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Glenmark Life Sciences IPO fully subscribed on Day 1 but grey market premium slips - The Financial Express",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiowFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9tYXJrZXQvaXBvLW5ld3MvZ2xlbm1hcmstbGlmZS1zY2llbmNlcy1pcG8tc3Vic2NyaXB0aW9uLXVwZGF0ZS1wdWJsaWMtaXNzdWUtb3Blbi1mdWxsLXN1YnNjcmliZS1kYXktMS1ncmV5LW1hcmtldC1wcmVtaXVtLzIyOTg1NTAv0gGoAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL21hcmtldC9pcG8tbmV3cy9nbGVubWFyay1saWZlLXNjaWVuY2VzLWlwby1zdWJzY3JpcHRpb24tdXBkYXRlLXB1YmxpYy1pc3N1ZS1vcGVuLWZ1bGwtc3Vic2NyaWJlLWRheS0xLWdyZXktbWFya2V0LXByZW1pdW0vMjI5ODU1MC9saXRlLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-07-27T10:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbesindia.com"
+      },
+      "author": null,
+      "title": "Meet Anita Kishore: The Firm Hand Behind Byju's Global Acquisitions - Forbes India",
+      "description": "The maths teacher has been driving acquisitions, managing investor relations and framing strategies for Byju's",
+      "url": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/meet-anita-kishore-the-firm-hand-behind-byjus-global-acquisitions/69405/1",
+      "urlToImage": "https://www.forbesindia.com/media/images/2021/Jul/img_164475_anitakishore-0012_sm.jpg",
+      "publishedAt": "2021-07-27T09:41:43Z",
+      "content": "Anita Kishore, chief strategy officerByju's. Photo by Nishant RatnakarKanteerava Indoor Stadium, Bengaluru: It was the last Sunday of July 2014. The indoor stadium was packed with over 15,000 middle … [+8677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "APL Apollo Tubes shares hit 52-week high, board to consider bonus issue on August 6 - Moneycontrol.com",
+      "description": "The board will consider a proposal for issuing bonus shares during a meeting on August 6, the company has said",
+      "url": "https://www.moneycontrol.com/news/business/stocks/apl-apollo-tubes-shares-hit-52-week-high-board-to-consider-bonus-issue-on-august-6-7232911.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/05/seamless-pipes-770x433.jpg",
+      "publishedAt": "2021-07-27T09:39:29Z",
+      "content": "APL Apollo Tubes share price touched a 52-week high of Rs 1,819.30, rising 13 percent intraday, on July 27 as the company said it will consider issuing bonus shares at its board meeting on August 6.\r… [+717 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "hindustantimes.com",
+      "title": "Salary, EMI payments, ATM charges: Rules which are changing from August 1 - Hindustan Times",
+      "description": "There are some rules which have been changes by the Reserve Bank of India, while the India Post financial service has also announced increase in its charges.",
+      "url": "https://www.hindustantimes.com/business/salary-emi-payments-atm-charges-rules-which-are-changing-from-august-1-101627377925629.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/07/27/1600x900/jitu-patwari-atm_4949055a-c41b-11e6-913d-826c0833a15d_1627378035368.jpg",
+      "publishedAt": "2021-07-27T09:30:54Z",
+      "content": "The month of August will see several changes that will affect the day-to-day banking operations, and also have an impact on other sectors. Those who transact with banks will have to be aware of the c… [+2772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "D-Street Buzz: Nifty Pharma falls more than 4%; Dr Reddy's shares fall 10% - Moneycontrol.com",
+      "description": "Shares of Dr Reddy's Labs fell after the company posted a consolidated profit of Rs 570.8 crore for the quarter ended June 30, 2021, a 1.5 percent drop from the year-ago period",
+      "url": "https://www.moneycontrol.com/news/business/markets/d-street-buzz-nifty-pharma-falls-more-than-4-dr-reddys-shares-fall-10-7232421.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/Stock2-1-770x433.jpg",
+      "publishedAt": "2021-07-27T08:57:00Z",
+      "content": "Most pharma stocks appeared to be under severe pressure in intraday trade on July 27, dragging their sectoral index Nifty Pharma lower by over 4 percent.\r\nAt 1405 hours, the index was 4.20 percent do… [+782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Saloni Kothari",
+      "title": "Why Dr Reddy's Lab shares hit 10% lower circuit today - Mint",
+      "description": "Dr Reddy's said it has received a subpoena from the US market regulator SEC for production of documents pertaining to CIS (Commonwealth of Independent States) geographies",
+      "url": "https://www.livemint.com/market/stock-market-news/dr-reddy-s-lab-shares-hit-10-lower-circuit-11627374501864.html",
+      "urlToImage": "https://images.livemint.com/img/2021/07/27/600x338/375228033_0-4_1627374564436_1627374578359.jpg",
+      "publishedAt": "2021-07-27T08:35:57Z",
+      "content": "Shares of Dr Reddy Laboratories' hit 10% lower circuit today after reporting a lower-than-expected quarterly earnings for Q1FY22 and US market regualtor SEC's subpoena of documents for CIS geographie… [+2855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "GVK promoter buys Jubilee Hills house in Hyderabad for Rs 23.15 crore - Moneycontrol.com",
+      "description": "The independent house in Hyderabad’s posh Jubilee Hills area is spread across 6,033 sq ft and was purchased by GV Krishna Reddy, the chairman of GVK Group.",
+      "url": "https://www.moneycontrol.com/news/business/gv-krishna-reddy-gvk-group-promoter-buys-jubilee-hills-house-hyderabad-rs-23-15-crore-7232131.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/G_V_Krishna_Reddy_Horasis_Global_India_Business_Meeting_2010-770x433.jpg",
+      "publishedAt": "2021-07-27T08:22:49Z",
+      "content": "Owner of business conglomerate GVK Group, which focuses on infrastructure, energy, resources and airports, has bought an independent house spread across 6,033 square feet in Hyderabads posh Jubilee H… [+3651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "After a lukewarm H1CY21, private banks on cusp of re-rating, say analysts; ICICI, HDFC Bank, Kotak among... - Moneycontrol.com",
+      "description": "The second wave of the coronavirus is the main reason why most banking stocks failed to carry forward the healthy Q4FY21 numbers. With economic activity picking in June, business growth is expected to improve from the second half of FY22, say experts",
+      "url": "https://www.moneycontrol.com/news/business/markets/after-a-lukewarm-h1cy21-private-banks-on-cusp-of-re-rating-say-analysts-icici-hdfc-bank-kotak-among-top-picks-7231381.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/shutterstock_527211817-1-770x433.jpg",
+      "publishedAt": "2021-07-27T08:08:27Z",
+      "content": "The year 2021 has been healthy for the equity market even as coronavirus and inflation concerns have persisted amid signals that the rolling back of massive liquidity infusion may begin sooner than e… [+4943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgets Now"
+      },
+      "author": "IANS",
+      "title": "Jeff Bezos wants to 'beat' Elon Musk with a $2 billion discount, here's why - Gadgets Now",
+      "description": "Fresh from his trip to the edge of space, Amazon Founder Jeff Bezos has offered NASA a discount of up to $2 billion to give his space company Blue Origin the human lunar landing system (HLS) contract, won by Elon Musks SpaceX earlier this year.Escalating his …",
+      "url": "https://www.gadgetsnow.com/tech-news/jeff-bezos-offers-nasa-2-billion-discount-for-human-lunar-lander-mission/articleshow/84786423.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,msid-84786423,imgsize-67106,width-800/84786423.jpg",
+      "publishedAt": "2021-07-27T08:03:00Z",
+      "content": "Fresh from his trip to the edge of space, Amazon Founder Jeff Bezos has offered NASA a discount of up to $2 billion to give his space company Blue Origin the human lunar landing system (HLS) contract… [+2324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Analytics Insight"
+      },
+      "author": "Apoorva Komarraju",
+      "title": "Cryptocurrency Market Update: Bitcoin Might Be Gearing Towards a Bull Run - Analytics Insight",
+      "description": "The cryptocurrency market is all green and Bitcoin prices are also increasing, helping crypto investors book some profit. Here’s the latest crypto news.",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-market-update-bitcoin-might-be-gearing-towards-a-bull-run/",
+      "urlToImage": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Bitcoin-Might-Be-Gearing-Towards-a-Bull-Run.jpg",
+      "publishedAt": "2021-07-27T08:00:27Z",
+      "content": "Theres a rumor going around which hiked up all the cryptocurrency prices. \r\nBitcoin and the cryptocurrency market have recovered from the recent dips. In the last two days, Bitcoins price is up 10%, … [+1528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Zee Media Bureau",
+      "title": "AstraZeneca, Pfizer vaccine antibody levels may decline after 2-3 months: Lancet study - Zee News",
+      "description": "How safe are you from the coronavirus even when you are fully vaccinated? As the world is hoping for a vaccine resolution to the COVID-19 crisis, a Lancet study definitely brings little cheer.",
+      "url": "https://zeenews.india.com/world/astrazeneca-pfizer-vaccine-antibody-levels-may-decline-after-2-3-months-lancet-study-2379377.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/07/27/954687-fakevax.jpg",
+      "publishedAt": "2021-07-27T07:59:00Z",
+      "content": "London: How safe are you from the coronavirus even when you are fully vaccinated? As the world is hoping for a vaccine resolution to the COVID-19 crisis, a Lancet study definitely brings little cheer… [+3476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Ratan Tata assures shareholders: Natarajan Chandrasekaran’s successor to be decided after deliberations... - Moneycontrol",
+      "description": "Natarajan Chandrasekaran also responded saying that no such discussion has happened with Ratan Tata or the trusts or the board of Tata Sons.",
+      "url": "https://www.moneycontrol.com/news/business/ratan-tata-assures-shareholders-natarajan-chandrasekarans-successor-to-be-decided-after-deliberations-by-board-7231151.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/04/Ratan-Tata-770x433.jpg",
+      "publishedAt": "2021-07-27T07:41:31Z",
+      "content": "Tata Trusts Chairman Ratan Tata gave his assurance to the shareholders that the Chairman of the Tata Group Natarajan Chandrasekarans succession will be decided only after fair and due deliberations b… [+1185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Tesla still holds $1.3 billion worth of bitcoin, shows earnings report - Mint",
+      "description": "The company stopped accepting bitcoin as payment over environmental concerns due to high energy consumption during mining of the digital asset",
+      "url": "https://www.livemint.com/companies/news/tesla-still-holds-1-3-billion-worth-of-bitcoin-shows-earnings-report-11627370127371.html",
+      "urlToImage": "https://images.livemint.com/img/2021/07/27/600x338/372941285_0-11_1627028973875_1627370220893.jpg",
+      "publishedAt": "2021-07-27T07:31:23Z",
+      "content": "NEW DELHI: Tesla Incs June quarter earnings on Monday showed that the US-based electric car company was still holding $1.3 billion worth of bitcoin on its balance sheet, putting to rest speculations … [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "China jitters pull Asian stocks to seven-month low - Moneycontrol.com",
+      "description": "MSCI's broadest index of Asia-Pacific shares outside Japan fell 0.25 percent to its lowest level since mid-December, extending a low set the day before.",
+      "url": "https://www.moneycontrol.com/news/business/markets/china-jitters-pull-asian-stocks-to-seven-month-low-7231461.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/stocks_sensex_nifty_stockmarket5-1-770x433.jpg",
+      "publishedAt": "2021-07-27T07:15:02Z",
+      "content": "Asia's stock markets fell to fresh troughs on Tuesday led by a third straight session of heavy selling in Chinese internet giants, while bond and currency markets traded on edge ahead of the Federal … [+3379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GaadiWaadi.com"
+      },
+      "author": "Surendhar M",
+      "title": "Hyundai Showcases Nexo FCEV & Ioniq 5 Electric Crossover In India - GaadiWaadi.com",
+      "description": "Hyundai Nexo and Ioniq 5 were displayed at a special event that saw the inauguration of the brand's HQ in Gurugram",
+      "url": "https://gaadiwaadi.com/hyundai-showcases-nexo-fcev-ioniq-5-electric-crossover-in-india/",
+      "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2021/07/Hyundai-Nexo-Ioniq-5-India.jpg",
+      "publishedAt": "2021-07-27T06:58:25Z",
+      "content": "Hyundai Motor India Limited (HMIL) has inaugurated its corporate headquarters at Gurugram and on the occasion of the special event, two zero-emission models were showcased. One was the Nexo fuel-cell… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Carandbike.com"
+      },
+      "author": "Sameer Contractor",
+      "title": "Tata Motors Rolls Out 10,000th All-New Safari In 4 Months Since Launch - carandbike",
+      "description": "The 10,000th Tata Safari has been rolled out from the Pune plant, four months after manufacturing began despite challenges in the wake of the pandemic.",
+      "url": "https://www.carandbike.com/news/tata-motors-rolls-out-10-000th-all-new-safari-in-4-months-of-launch-2495759",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/g0phrkmg_tata-motors-rolls-out-10000th-allnew-safari-in-4-months-of-launch_625x300_27_July_21.jpg",
+      "publishedAt": "2021-07-27T06:47:49Z",
+      "content": "Tata Motors has achieved a new production milestone with the rollout of the 10,000th all-new Safari SUV. The automaker achieved the production figure at its Pune plant in Maharashtra in just four mon… [+2704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Travel app ixigo in final stage talks to close pre-IPO round led by GIC, Info Edge, Malabar Investments,... - Moneycontrol",
+      "description": "The proposed fund raise will be a mixture of primary and secondary issue of shares and will also include Orios Venture Partners, Bay Capital & Trifecta Capital. Travel app ixigo is currently backed by the likes of Sequoia Capital, Elevation Capital (formerly …",
+      "url": "https://www.moneycontrol.com/news/business/travel-app-ixigo-in-final-stage-talks-to-close-pre-ipo-round-led-by-gic-info-edge-malabar-investments-white-oak-capital-others-7231131.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/07/ixigo-770x433.jpg",
+      "publishedAt": "2021-07-27T06:43:49Z",
+      "content": "AI-based travel app ixigo, which counts Sequoia Capital, Elevation Capital (formerly called SAIF Partners) and MakeMyTrip as investors, is in the final stages of sealing a pre-IPO round of around $53… [+3362 chars]"
+    }
+  ]
+}
